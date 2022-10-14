@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\bin\Debug\net6.0\BlockBusterZ.exe
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\bin\Debug\net6.0\BlockBusterZ.deps.json
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\bin\Debug\net6.0\BlockBusterZ.runtimeconfig.json
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\bin\Debug\net6.0\BlockBusterZ.dll
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\bin\Debug\net6.0\BlockBusterZ.pdb
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\BlockBusterZ.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\BlockBusterZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\BlockBusterZ.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\BlockBusterZ.AssemblyInfo.cs
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\BlockBusterZ.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\BlockBusterZ.dll
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\refint\BlockBusterZ.dll
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\BlockBusterZ.pdb
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\BlockBusterZ.genruntimeconfig.cache
+C:\Users\Liam\source\repos\BlockBusterZ\BlockBusterZ\obj\Debug\net6.0\ref\BlockBusterZ.dll
